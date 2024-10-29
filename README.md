@@ -32,5 +32,7 @@ As an aspiring programmer, my journey has been defined by the pursuit of self-di
 
 ## Languages
 **English**: B1, with experience reading documentation, programming resources, and online tutorials in English.\
-**Russian**: native.
+**Russian**: native.\
+**Belarusian**: A2+.\
+**Ukrainian**: B1.
 
