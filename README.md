@@ -1,7 +1,7 @@
 # Marharyta Shyshkavets
-Location: :round_pushpin: Gdańsk, Poland\
-Tel: :telephone_receiver: +48 123 456 789\
-Email: :email: rita.shyshkavets@gmail.com\
+:round_pushpin: Location: Gdańsk, Poland\
+:telephone_receiver: Tel: +48 123 456 789\
+:email: Email: rita.shyshkavets@gmail.com\
 *Discord: margomint*\
 *Telegram: @Match_Rita*
 
