@@ -22,7 +22,7 @@ As an aspiring programmer, my journey has been defined by the pursuit of self-di
 ## Work Experience
 *As an entry-level developer, I’ve completed educational and personal projects:*
 
-- **Sample Project 1** – tech stack used HTML, SCSS, JavaScript – [GitHub repository link](https://github.com/MargoMint/myPortfolio)
+- **Sample Project** – tech stack used HTML, SCSS, JavaScript – [GitHub repository link](https://github.com/MargoMint/myPortfolio)
 
 ## Education
 - **Self-Study**: Focused studies in HTML, CSS, and JavaScript fundamentals
@@ -30,5 +30,7 @@ As an aspiring programmer, my journey has been defined by the pursuit of self-di
    - Completed *"WEB-разработчик"* course on [Udemy](https://www.udemy.com/course/webdeveloper/?couponCode=24T6MT102824)
    - *"Полный курс по JavaScript + React - с нуля до результата"* (In Progress) on [Udemy](https://www.udemy.com/course/javascript_full/?couponCode=24T6MT102824)
 
-## English Language
-**A2+**: Pre-Intermediate, with experience reading documentation, programming resources, and online tutorials in English.
+## Languages
+**English**: B1, with experience reading documentation, programming resources, and online tutorials in English.
+**Russian**: native.
+
