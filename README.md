@@ -31,6 +31,6 @@ As an aspiring programmer, my journey has been defined by the pursuit of self-di
    - *"Полный курс по JavaScript + React - с нуля до результата"* (In Progress) on [Udemy](https://www.udemy.com/course/javascript_full/?couponCode=24T6MT102824)
 
 ## Languages
-**English**: B1, with experience reading documentation, programming resources, and online tutorials in English.
+**English**: B1, with experience reading documentation, programming resources, and online tutorials in English.\
 **Russian**: native.
 
