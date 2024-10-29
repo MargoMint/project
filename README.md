@@ -1,8 +1,9 @@
 # Marharyta Shyshkavets
-:round_pushpin: Gdańsk, Poland\
-:telephone_receiver: +48 123 456 789\
-:email: rita.shyshkavets@gmail.com\
-*Discord nickname: margomint*
+Location: :round_pushpin: Gdańsk, Poland\
+Tel: :telephone_receiver: +48 123 456 789\
+Email: :email: rita.shyshkavets@gmail.com\
+*Discord: margomint*\
+*Telegram: @Match_Rita*
 
 ## Brief Self-Introduction:
 I am an aspiring frontend developer with a solid foundation in HTML, CSS.
